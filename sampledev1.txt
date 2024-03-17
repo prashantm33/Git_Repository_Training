@@ -1,2 +1,6 @@
 dev2 file
- new line added in sample file1
+
+new line added in sample file1
+
+this comapare file1
+
