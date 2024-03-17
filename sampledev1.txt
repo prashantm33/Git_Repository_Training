@@ -1,1 +1,2 @@
 dev2 file
+ new line added in sample file1
