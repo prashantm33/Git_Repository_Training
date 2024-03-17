@@ -4,3 +4,4 @@ new line added in sample file1
 
 this comapare file1
 
+this is stash file1
